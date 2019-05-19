@@ -18,7 +18,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    margin: 0px 4px;
+    margin: 0px 8px;
 }
 
 nav {
@@ -42,4 +42,8 @@ h2 {
     margin: 30px auto;
     border: 1px solid;
     border-color: #cccccc;
+}
+
+#profile {
+    margin: 0px 8px;
 }
