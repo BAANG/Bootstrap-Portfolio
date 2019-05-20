@@ -4,8 +4,13 @@ body {
     background: #ffffff;
 }
 
+#header-nav {
+    position: absolute;
+    top: 0;
+}
+
 #topbar {
-    position: fixed;
+    position: absolute;
     top: 0;
     width: 100%;
     border-bottom: 3px solid;
@@ -55,7 +60,7 @@ hr {
 }
 
 #content {
-    margin: 30px auto;
+    margin: 100px auto;
     border: 1px solid;
     border-color: #cccccc;
 }
