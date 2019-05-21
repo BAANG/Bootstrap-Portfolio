@@ -9,6 +9,7 @@ This is a project done for UC Berkeley Coding Bootcamp in which I utilized the [
 * [@Bootstrap](https://github.com/twbs/bootstrap) CSS
 * [@Bootstrap](https://github.com/twbs/bootstrap) Javascript
 
-![Portfolio About](assets/images/index-screenshot.png)
-![Portfolio Gallery](assets/images/portfolio-screenshot.png)
-![Portfolio Contact](assets/images/contact-screenshot.png)
+___
+![Portfolio About](/assets/images/index-screenshot.png)
+![Portfolio Gallery](/assets/images/portfolio-screenshot.png)
+![Portfolio Contact](/assets/images/contact-screenshot.png)
